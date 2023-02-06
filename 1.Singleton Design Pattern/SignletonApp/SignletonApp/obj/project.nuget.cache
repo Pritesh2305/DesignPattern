@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oHZw7AC7EyC5Oz8MXX2crYaB7sBGUb4ioudxO61fBmWB8hJRTpC2jP0j7fas78uM21n4A3Hq9JeBWBmZ7veFOw==",
+  "success": true,
+  "projectFilePath": "D:\\STUDY-WORK\\DesignPattern\\1.Singleton Design Pattern\\SignletonApp\\SignletonApp\\SignletonApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pritesh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
