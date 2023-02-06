@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>iterator_design_pattern</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="democlass\" />
+  </ItemGroup>
+
+</Project>

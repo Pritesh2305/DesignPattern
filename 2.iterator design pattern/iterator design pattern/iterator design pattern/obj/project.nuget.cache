@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nd5G3UY0UDdUAN+x2sc2E/1eWHzbmkqmpMo1TxO3MRFAq5kjnHCptmga7Q3Z/BEl7TdJSoAMirzzzGUFOozg4w==",
+  "success": true,
+  "projectFilePath": "D:\\STUDY-WORK\\DesignPattern\\2.iterator design pattern\\iterator design pattern\\iterator design pattern\\iterator design pattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pritesh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

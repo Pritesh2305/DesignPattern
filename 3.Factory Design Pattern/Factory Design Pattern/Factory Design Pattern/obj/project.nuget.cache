@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "se0AIQM/EuAcJKST0mvLA1b5G6/KM4OiE83sym0+B573Rz5YYN3Ctr6UV+0EsHWzqLTwld30igDEbUG8Y092tA==",
+  "success": true,
+  "projectFilePath": "D:\\STUDY-WORK\\DesignPattern\\3.Factory Design Pattern\\Factory Design Pattern\\Factory Design Pattern\\Factory Design Pattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pritesh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
